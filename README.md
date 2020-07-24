@@ -4,6 +4,7 @@
 
 ### I am Sam Liu
 
+- Learn every day
 - Deep Learning  and NLP
 - Major in artificial intellegence Student. 
 - looking for opportunities and interesting project.
