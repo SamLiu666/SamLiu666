@@ -4,7 +4,6 @@
 
 ### I am Sam Liu
 
-- Like Deep Learning  and NLP
-- An artificial intellegence  Student. 
-- Currently working on some of my cool side projects based on Deep Learning and NLP
-- I'm currently looking for opportunities. 
+- Deep Learning  and NLP
+- Major in artificial intellegence Student. 
+- looking for opportunities and interesting project.
