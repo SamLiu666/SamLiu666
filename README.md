@@ -8,3 +8,5 @@
 - Deep Learning  and NLP
 - Major in artificial intellegence Student. 
 - looking for opportunities and interesting project.
+
+- Intereted in test-to-sql task. welcome to comunicate
